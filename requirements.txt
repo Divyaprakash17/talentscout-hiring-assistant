@@ -7,3 +7,5 @@ google-generativeai
 pandas
 altair
 plotly
+gcloud
+setuptools
