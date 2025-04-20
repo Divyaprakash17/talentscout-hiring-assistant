@@ -3,6 +3,7 @@ firebase-admin
 pyrebase4
 python-dotenv
 langchain
+langchain-google-genai
 google-generativeai
 pandas
 altair
