@@ -1,0 +1,9 @@
+streamlit
+firebase-admin
+pyrebase4
+python-dotenv
+langchain
+google-generativeai
+pandas
+altair
+plotly
